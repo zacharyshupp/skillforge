@@ -1,0 +1,11 @@
+{
+  "$schema": "https://cdn.jsdelivr.net/gh/anthropics/claude-code@main/marketplace-schema.json",
+  "name": "zacharyshupp",
+  "plugins": [
+    {
+      "name": "skillforge",
+      "description": "A curated collection of Claude Code skills, built to extend Claude with reusable, composable, and production-minded capabilities.",
+      "git": "https://github.com/zacharyshupp/skillforge.git"
+    }
+  ]
+}

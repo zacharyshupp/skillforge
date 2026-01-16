@@ -1,0 +1,17 @@
+{
+  "name": "skillforge",
+  "version": "1.0.0",
+  "description": "A curated collection of Claude Code skills, built to extend Claude with reusable, composable, and production-minded capabilities.",
+  "author": {
+    "name": "Zachary Shupp",
+    "url": "https://github.com/zacharyshupp"
+  },
+  "homepage": "https://github.com/zacharyshupp/skillforge",
+  "repository": "https://github.com/zacharyshupp/skillforge",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "productivity",
+    "utilities"
+  ]
+}
